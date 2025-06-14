@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-01-22 01:59:35 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 01:59:41 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 04:38:05 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 04:38:06 --> 404 Page Not Found: user/Login/index
+ERROR - 2025-01-22 04:38:06 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 04:38:06 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 04:38:06 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:20:44 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:20:47 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:20:53 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:20:55 --> 404 Page Not Found: ../modules/web/controllers/Web/wp-includes
+ERROR - 2025-01-22 06:20:57 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:20:59 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:02 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:04 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:06 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:08 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:10 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:12 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:14 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:17 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:19 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:21 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 06:21:23 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 08:48:00 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 08:51:57 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 08:55:59 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 08:59:58 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 15:01:49 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 15:03:21 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 19:23:12 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 22:42:20 --> 404 Page Not Found: /index
+ERROR - 2025-01-22 22:42:58 --> 404 Page Not Found: /index

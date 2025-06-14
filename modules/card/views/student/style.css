@@ -1,0 +1,407 @@
+
+@media print {
+   
+    .right_col {
+      margin-left: 20px !important;
+    }
+  /******** ID CARD ********/
+  .card-top{       
+      background-color: #f1f1f1 !important;
+      background-size: 100% 100% !important;
+      -webkit-print-color-adjust: exact !important; 
+      color-adjust: exact !important; 
+  }    
+  .card-bottom{       
+      background-color: #f1f1f1 !important;       
+      background-size: 100% 100% !important;
+      -webkit-print-color-adjust: exact !important; 
+      color-adjust: exact !important; 
+  }
+  
+  
+  /******** ADMIT CARD ********/
+  .admit-card-block{      
+      border: 3px dashed lightgray;
+      border-radius: 10px;
+      margin: 20px 20px !important; 
+      float: left;
+  }  
+  .admit-card-top{
+      background-color: #f1f1f1 !important;    
+      background-size: 100% 100% !important;
+      -webkit-print-color-adjust: exact !important; 
+      color-adjust: exact !important; 
+  }
+  .print-page-break{
+      break-after:page;
+      clear: both;
+  }
+  .admit-card-bottom{        
+      background-color: #f1f1f1 !important;       
+      background-size: 100% 100% !important;
+      -webkit-print-color-adjust: exact !important; 
+      color-adjust: exact !important; 
+  }
+  
+}
+
+@media all { 
+
+  .card_sign{
+      max-height: 80%;
+      margin-left: 6px;
+      margin-right: 6px;
+      margin-top: 3px;
+  }
+  .card-block{
+      /*width: 400px;
+      height: 225px;
+      border: 1px dashed lightgray;
+      border-radius: 10px;
+      margin: 10px 20px;
+      float: left;*/
+
+      /*css_change*/
+      /* width: 221px;
+  height: 450px;
+  border: 1px dashed lightgray;
+  border-radius: 10px;
+  margin: 10px 20px;
+  float: left; */
+  width: 220px;
+  height: 410px;
+  border: 1px dashed lightgray;
+  border-radius: 10px;
+  margin: 5px 6px;
+  position: relative;
+  float: left;
+      }
+
+  .card-top{
+      /*height: 65px;
+      width: 100%;
+      background: #f1f1f1;
+      border-radius: 10px 10px 0px 0px;
+      background-size: 100% 100% !important;
+      -webkit-print-color-adjust: exact !important; 
+      color-adjust: exact !important; */
+      /*css_change*/
+         height: 80px;
+      width: 100%;
+      background: #f1f1f1;
+      border-radius: 10px 10px 0px 0px;
+      background-size: 100% 100% !important;
+      -webkit-print-color-adjust: exact !important;
+          color-adjust: exact !important;
+  }
+  .card-logo{
+      width: 20%;
+      float: left;
+      text-align: left !important;
+  }
+  .card-logo img{
+      padding: 1px 1px 1px 1px;        
+      text-align: center;
+      max-height: 65px;
+      max-width: 65px;
+  }
+  .card-school{       
+      /*float: left;   
+      width: 318px;*/
+      /*css_change*/
+     float: left;
+  width: 80%;
+  padding: 4px
+  }
+  .card-school h2{
+      font-size: 15px !important;
+      padding: 0px 5px;
+      font-weight: 500;
+      text-align: center;
+      vertical-align: middle;
+      margin: 5px 0px 0px 0px;
+  }
+  .card-school p{
+      text-align: center;
+      font-size: 10px;
+      padding: 0px;
+      margin: 0px;
+      line-height: 8px;
+  }
+  .std-id{
+      /*width: 100%;
+      text-align: center;        */
+      /*css_change*/
+      width: 100%;
+      text-align: center;
+      margin-bottom: 7px;
+  }
+  .std-id h3{
+      padding: 0;
+      margin: 0px;
+  }
+  .std-id span{ 
+      font-size: 14px;
+      font-weight: bold;
+      background: lightblue;
+      padding: 3px 20px;
+      border-radius: 10px;
+  }
+  
+  /* card middle */
+  .card-photo{     
+      width: 120px;
+      float: left;
+      text-align: center;
+  }
+  .card-photo img{
+      /*width: 90px;
+      height: 90px;
+      margin: 0px 50px 20px 5px;
+      text-align: center;
+      border-radius: 10px;
+      max-height: 110px;
+      border: 1px solid #efefef;*/
+      /*css_change*/
+      width: 90px;
+      height: 90px;
+      margin: 5px 59px 4px 69px;
+      text-align: center;
+      border-radius: 10px;
+      max-height: 110px;
+      border: 1px solid #efefef;
+  }
+  .card-info{
+      /*line-height: 15px;
+      padding-top: 5px;
+      float: left;*/
+      /*css_change*/
+      line-height: 22px;
+      padding: 2px 0px 1px 5px;
+      float: left;
+      width: 100%;
+          /* line-height: 22px;
+          
+          padding: 9px 0px 8px 2px;
+          float: left;
+          width: 217px; */
+  /* background-color: yellow;*/
+  }
+  .card-info p{ 
+      padding: 0px;
+      margin: 0px;
+  }
+  .card-info p .card-title{
+      /*text-align: left;
+      font-size: 11px; 
+      font-weight: bold;
+      width: 90px;
+      float: left;*/
+      /*css_change*/
+          font-size: 12px !important;
+  /* width: 101px; */
+  color: #040003 !important;
+  font-weight: bold !important;;
+  }
+  .card-info p .card-value{
+      /*text-align: left;
+      font-size: 11px; 
+      width: 180px;
+      float: left;*/
+      /*css_change*/
+      text-align: right;
+  font-size: 12px;
+  width: 180px;
+  /* float: left;*/
+  }
+
+  /* bottom*/
+  .card-bottom{
+      /*height: 22px;
+      width: 100%;
+      background-color: #f1f1f1;
+      border-radius: 0px 0px 10px 10px;
+      float: left;*/
+      /*css_change*/
+          /* height: 22px;
+          width: 100%;
+          background-color: #f1f1f1;
+          border-radius: 0px 0px 10px 10px;
+          float: left;
+          margin-top: 12px; */
+          height: 34px;
+  width: 100%;
+  background-color: #f1f1f1;
+  border-radius: 0px 0px 10px 10px;
+  float: left;
+  margin-top: 5px;
+  bottom: 0px;
+  position: absolute;
+  }
+  .card-bottom p{
+      text-align: center;
+      font-size: 12px;
+      margin: 0px;
+      padding: 3px 30px;
+  }
+  
+  
+  /********************Admit card ********************************/
+  .admit-card-block{
+      width: 700px;
+      min-height: 320px;
+      border: 3px dashed lightgray;
+      border-radius: 10px;
+      margin: 10px 20px;
+      float: left;
+  }  
+  .admit-card-top{
+      height: 150px;
+      width: 100%;
+      background: blueviolet;
+      border-radius: 10px 10px 0px 0px;
+      background-size: 100% 100% !important;
+      -webkit-print-color-adjust: exact !important; 
+      color-adjust: exact !important; 
+  }
+
+  .admit-card-logo{
+      width: 150px;
+      float: left;
+      text-align: center;
+  }
+  .admit-card-logo img{
+      padding: 10px 0px 5px 10px;        
+      text-align: center;
+      height: 95px;
+      width: 100px;
+  }
+
+  .admit-card-school{       
+      float: left;   
+      width: 540px;
+  }
+  .admit-card-school h2{
+      font-size: 30px;
+      padding: 0px 10px;
+      text-align: center;
+      vertical-align: middle;
+      margin: 10px 0px 0px 0px;
+      color: #f1f1f1;
+  }
+  .admit-card-school p{
+      text-align: center;
+      font-size: 14px;
+      padding: 0px;
+      margin: 0px;
+      line-height: 16px;
+      color: #f1f1f1;
+  }
+
+  .admit-card{
+      width: 100%;
+      text-align: center;
+      margin: 10px 0px;
+    
+  }
+  .admit-card span{
+      padding: 0;
+      margin: 5px;
+      font-size: 18px;
+      font-weight: bold;
+      background: lightblue;
+      padding: 5px 20px;
+      border-radius: 10px;
+  }
+
+  
+  /* card middle */
+  .admit-card-main{
+      margin-bottom: 10px;
+      float: left;
+  }
+  .admit-card-photo{     
+      width: 150px;
+      float: left;
+      text-align: center;
+  }
+  .admit-card-photo img{
+      width: 120px;        
+      padding: 0px 8px 8px 8px;
+      text-align: center;
+      border-radius: 10px;
+      max-height: 140px;
+  }
+
+  .admit-card-info{
+      line-height: 16px;
+      padding-top: 5px;
+      float: left;
+      width: 262px;
+      border-right: 1px solid #969696;
+  }
+  .admit-card-info p{ 
+      padding: 0px;
+      margin: 0px;
+  }
+  .admit-card-info p .admit-card-title{
+      text-align: left;
+      font-size: 11px; 
+      font-weight: bold;
+      width: 90px;
+      float: left;
+  }
+  .admit-card-info p .admit-card-value{
+      text-align: left;
+      font-size: 11px; 
+      width: 170px;
+      float: left;
+  }
+  
+  .admit-card-subject{
+      float: left;       
+      width: 280px;      
+      padding-left: 5px;
+      min-height: 132px;
+  }
+  .admit-exam{
+      font-size: 16px;
+      text-align: left;
+  }
+  .subject-heading{
+      font-size: 14ox;
+      border-bottom: 1px solid lightgray;
+  }
+  .exam-subjects{
+     padding-top: 5px; 
+  }
+  .exam-subjects ol{
+      padding:0px;
+      margin: 0px;
+      float: left;
+  }
+  .exam-subjects ol li {
+          float: left;
+          font-size: 12px;
+          margin-left: 20px;
+          width: 40%;
+          line-height: 14px;
+          color: #3943cc;
+  }
+
+  /* bottom*/
+  .admit-card-bottom{
+      height: 25px;
+      width: 100%;
+      background-color: #f1f1f1;
+      border-radius: 0px 0px 10px 10px;
+      float: left;       
+  }
+
+  .admit-card-bottom p{
+      text-align: center;
+      font-size: 14px;
+      margin: 0px;
+      padding: 3px 30px;
+  }
+}

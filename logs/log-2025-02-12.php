@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-02-12 00:21:32 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 00:22:14 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 02:56:31 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 02:56:43 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 02:57:03 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 02:57:18 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 02:57:31 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:03:46 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:03:48 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:03:55 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:03:57 --> 404 Page Not Found: ../modules/web/controllers/Web/wp-includes
+ERROR - 2025-02-12 03:03:59 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:01 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:03 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:05 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:07 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:10 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:12 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:14 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:16 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:18 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:20 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:22 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:25 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 03:04:27 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 05:51:37 --> 404 Page Not Found: /index
+ERROR - 2025-02-12 12:30:22 --> 404 Page Not Found: /index
