@@ -99,6 +99,6 @@ $db['default'] = array(
 
 // database connection here
 $db['default']['hostname'] = "localhost:3306";
-$db['default']['username'] = "vbr_netonline";
-$db['default']['password'] = "z^s2lJ592";
-$db['default']['database'] = "vbr_hin";
+$db['default']['username'] = "ie_schools";
+$db['default']['password'] = "cF&p6cWbm0Jqi4e%";
+$db['default']['database'] = "ienet_schools";
