@@ -102,7 +102,3 @@ $db['default']['hostname'] = "localhost:3306";
 $db['default']['username'] = "vbr_netonline";
 $db['default']['password'] = "z^s2lJ592";
 $db['default']['database'] = "vbr_hin";
-//$db['default']['hostname'] = "132.148.76.117:3306";
-//$db['default']['username'] = "vbr_netonline";
-//$db['default']['password'] = "@64eO$u53b";
-//$db['default']['database'] = "vbr_hin";
